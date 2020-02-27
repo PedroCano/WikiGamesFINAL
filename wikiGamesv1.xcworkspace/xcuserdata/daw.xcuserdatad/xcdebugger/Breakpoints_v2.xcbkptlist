@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4DB5814-8D6D-4F86-B358-B1ACAD461712"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F797922D-F11C-4F0D-8A66-2E3D556F0F0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wikiGamesv1/controllers/AddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F797922D-F11C-4F0D-8A66-2E3D556F0F0F - d73984e4f9ec810b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wikiGamesv1.AddViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; wikiGamesv1.AddViewController"
+                  moduleName = "wikiGamesv1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daw/Desktop/wikiGamesv1/wikiGamesv1/controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F797922D-F11C-4F0D-8A66-2E3D556F0F0F - 8d4d076a1798aecb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wikiGamesv1.AddViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; wikiGamesv1.AddViewController"
+                  moduleName = "wikiGamesv1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daw/Desktop/wikiGamesv1/wikiGamesv1/controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "F797922D-F11C-4F0D-8A66-2E3D556F0F0F - e7647a5bc5655a13"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wikiGamesv1.AddViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;wikiGamesv1.AddViewController&gt;"
+                  moduleName = "wikiGamesv1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daw/Desktop/wikiGamesv1/wikiGamesv1/controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F797922D-F11C-4F0D-8A66-2E3D556F0F0F - 8c2610c465e6bb0f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wikiGamesv1.AddViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;wikiGamesv1.AddViewController&gt;"
+                  moduleName = "wikiGamesv1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daw/Desktop/wikiGamesv1/wikiGamesv1/controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "F797922D-F11C-4F0D-8A66-2E3D556F0F0F - 5eca2945e97fe71b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "wikiGamesv1.AddViewController.__deallocating_deinit"
+                  moduleName = "wikiGamesv1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daw/Desktop/wikiGamesv1/wikiGamesv1/controllers/AddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
